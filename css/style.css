@@ -47,11 +47,13 @@ img {
   font-size: 12px;
 }
 
-#todo-list {
+#todo-list,
+#login-form {
   margin-top: 15px;
 }
 
-#todo-list button {
+#todo-list button,
+#login-form button {
   color: brown;
   font-size: 15px;
   line-height: 15px;
